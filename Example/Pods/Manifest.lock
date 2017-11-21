@@ -1,0 +1,16 @@
+PODS:
+  - Volkswagen (0.1.0)
+
+DEPENDENCIES:
+  - Volkswagen (from `../`)
+
+EXTERNAL SOURCES:
+  Volkswagen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Volkswagen: 2cef310b274c05cebb6dd80bfe9f619892edf040
+
+PODFILE CHECKSUM: 5376cb289bfa3b182946c0821b09a78b774026a6
+
+COCOAPODS: 1.1.1

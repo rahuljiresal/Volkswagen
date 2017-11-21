@@ -1,0 +1,23 @@
+{
+  "name": "Volkswagen",
+  "version": "0.1.0",
+  "summary": "A short description of Volkswagen.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rahuljiresal/Volkswagen",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rahuljiresal": "rahul.jiresal@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rahuljiresal/Volkswagen.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/rahuljiresal",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Volkswagen/Classes/**/*"
+}

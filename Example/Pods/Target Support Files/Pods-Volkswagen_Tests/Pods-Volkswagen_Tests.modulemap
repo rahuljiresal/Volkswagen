@@ -1,0 +1,6 @@
+framework module Pods_Volkswagen_Tests {
+  umbrella header "Pods-Volkswagen_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

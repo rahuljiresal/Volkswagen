@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'Volkswagen_Example' do
+  pod 'Volkswagen', :path => '../'
+  end
+end

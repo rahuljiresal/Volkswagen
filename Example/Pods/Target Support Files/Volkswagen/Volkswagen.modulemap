@@ -1,0 +1,6 @@
+framework module Volkswagen {
+  umbrella header "Volkswagen-umbrella.h"
+
+  export *
+  module * { export * }
+}

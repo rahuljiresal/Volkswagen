@@ -18,7 +18,8 @@ You can also use the callback,
 ```swift
 Volkswagen.defaultInstance.check { (isAppInReview) in
     // do something here
-}```
+}
+```
 
 Check is only needed to be performed once. After that, you can just check the Boolean value of `Volkswagen.defaultInstance.isAppInReview`.
 
@@ -27,7 +28,8 @@ For example,
 ```swift
 if (Volkswagen.defaultInstance.isAppInReview) {
 	// do something here
-}```
+}
+```
 
 *Note: If you get the value of `Volkswagen.defaultInstance.isAppInReview` before calling `Volkswagen.defaultInstance.check()`, it will always return `true`.*
 
